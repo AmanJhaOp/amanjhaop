@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Message me on Telegram t.me/No_One_Is_Mine
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm doing all this for my Love ! #Shreya_Op ❤✨
--->
