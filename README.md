@@ -1,6 +1,4 @@
 ### Hey there baby ! I'm Aman Jha ! 🔥❤ 👋
-
-<!--
 **AmanJhaOp/amanjhaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
