@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/AmanJhaOp/AmanJhaop/blob/main/39998-web-development.gif"=alt"bt">
+<p align="center"><img src="https://github.com/AmanJhaOp/AmanJhaop/main/39998-web-development.gif"=alt"bt">
   
   ### Hey there baby ! I'm Aman Jha ! 🔥❤ 👋
 **AmanJhaOp/amanjhaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
