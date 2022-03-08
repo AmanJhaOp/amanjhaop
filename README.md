@@ -5,13 +5,13 @@
 
 
 - 🔭 I’m currently working on Telegram Bots 🔥
-- 🌱 I’m currently learning HTML🙂❤
-- 👯 I’m looking to collaborate with Shreya ! 
-- 🤔 I’m looking for help with Shreya ! 
+- 🌱 I’m currently learning PCB🙂❤
+- 👯 I’m looking to collaborate with NEET ! 
+- 🤔 I’m looking for help with NEET_AIIMS_2023 ! 
 - 💬 Ask me about Anything on TG ! t.me/No_One_Is_Mine
 - 📫 How to reach me: Message me on Telegram t.me/No_One_Is_Mine
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm doing all this for my Love ! #Shreya_Op
+- ⚡ Fun fact: I'm doing all this for my Love ! #NEET_Op
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanjhaop&layout=compact)
